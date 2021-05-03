@@ -1,0 +1,17 @@
+{
+  "name": "gridsome-ghost",
+  "private": true,
+  "scripts": {
+    "develop": "gridsome develop",
+    "explore": "gridsome explore",
+    "build": "gridsome build"
+  },
+  "dependencies": {
+    "@gridsome/source-ghost": "^0.4.0",
+    "gridsome": "^0.7.0"
+  },
+  "devDependencies": {
+    "node-sass": "^5.0.0",
+    "sass-loader": "^10"
+  }
+}
