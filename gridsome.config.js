@@ -13,8 +13,8 @@ module.exports = {
     {
       use: '@gridsome/source-ghost',
       options: {
-        baseUrl: 'http://localhost:2368',
-        contentKey: '1c65488b7d16f515b7b9b6cda0',
+        baseUrl: 'https://ghost-router-zj6i02up85d7c7hu-gtw.qovery.io',
+        contentKey: '9e1c8d6f6404418cf9c96e4cbc',
         routes: {
           ghostPost: '/blog/:slug',
           page: '/:slug'
